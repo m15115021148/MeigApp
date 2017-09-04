@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MeigApp</string>
+    <string name="main_title">测试butterknife</string>
+</resources>
